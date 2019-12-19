@@ -1,12 +1,15 @@
 """
 File contains implementation of AbstractSrtMachine
 """
-
+import sphinx
 from abc import ABC, abstractmethod
 
 
 class AbstractSortMachine(ABC):
     def __init__(self):
+        """
+        Abstract class, which define method of sorting
+        """
         pass
 
     @abstractmethod
