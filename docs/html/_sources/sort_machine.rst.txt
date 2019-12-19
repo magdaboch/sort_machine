@@ -1,0 +1,18 @@
+sort_machine
+========================================
+|
+
+
+.. automodule:: sort_machine
+
+    :members:
+
+    :undoc-members:
+
+    :private-members:
+
+    :show-inheritance:
+
+|
+
+:ref:`Return Home <mastertoc>`
